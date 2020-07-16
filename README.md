@@ -3,7 +3,7 @@ Convert an HTML Template to a WordPress Theme
 
 # How to run (local)
 1. run `up_server.sh`
-2. initialize db: `db_import.sh <dump_file_name.sql>` (ex: `db_import.sh db_1594877266.sql`)
+2. initialize db: `db_import.sh <dump_file_name.sql>` (ex: `db_import.sh db_1594881841.sql`)
 3. confirm at: https://localhost. and https://localhost/wp-login.php (user/bitnami)
 
 # Backup database
